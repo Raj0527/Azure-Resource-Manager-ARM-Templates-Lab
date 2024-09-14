@@ -30,7 +30,7 @@ This project is part of my practice on automating Azure resource deployments usi
 ├── templates
 │   ├── template.json     # ARM template for managed disk
 ├── Parameters
-│   ├── parameters.json
+│   ├── parameters.json    # Parameters file for disk template
 ├── bicep
 │   ├── azuredeploydisk.bicep  # Bicep file for managed disk deployment
 ├── scripts
