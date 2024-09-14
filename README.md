@@ -28,14 +28,13 @@ This project is part of my practice on automating Azure resource deployments usi
 ```bash
 .
 ├── templates
-│   ├── disk-template.json     # ARM template for managed disk
-│   ├── vm-template.json       # ARM template for virtual machine
+│   ├── template.json     # ARM template for managed disk
+├── Parameters
+│   ├── parameters.json
 ├── bicep
 │   ├── azuredeploydisk.bicep  # Bicep file for managed disk deployment
 ├── scripts
 │   ├── deploy-pshell.ps1      # PowerShell script for deploying templates
-│   ├── deploy-cli.sh          # CLI script for deploying templates
 ├── images
 │   ├── architecture-diagram.png  # Architecture diagram of the deployment
-│   ├── cloud-shell-deployment.png # Cloud Shell screenshot
 └── README.md                  # Project overview and instructions
