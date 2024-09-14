@@ -36,5 +36,5 @@ This project is part of my practice on automating Azure resource deployments usi
 ├── scripts
 │   ├── deploy-pshell.ps1      # PowerShell script for deploying templates
 ├── images
-│   ├── architecture-diagram.png  # Architecture diagram of the deployment
+│   ├── architecture-diagram.jpg  # Architecture diagram of the deployment
 └── README.md                  # Project overview and instructions
