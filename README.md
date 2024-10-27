@@ -2,7 +2,7 @@
 
 This project is part of my practice on automating Azure resource deployments using **Azure Resource Manager (ARM) templates** and **Bicep templates**. The aim is to reduce manual tasks and improve consistency in resource deployments by leveraging various automation techniques.
 
-![Uploading architecture-diagram.jpg…]()
+![architecture-diagram](https://github.com/user-attachments/assets/01c26108-50c0-46f6-9d5c-ef94cd36d44b)
 
 ## Objectives
 - Learn to automate resource deployment using ARM templates.
